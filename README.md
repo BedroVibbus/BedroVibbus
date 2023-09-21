@@ -1,5 +1,5 @@
 - 👋 Waddup 🅱, I’m @BedroVibbus (aka BedroQuendo)
-- 👀 I’m interested in homebrew
+- 👀 I’m interested in Homebrew
 - 🌱 I’m currently learning HTML, Python, JavaScript and very little of Java.
 - 💞️ I’m looking to collaborate on absolute nothing
 - 📫 How to reach me: on your walls
